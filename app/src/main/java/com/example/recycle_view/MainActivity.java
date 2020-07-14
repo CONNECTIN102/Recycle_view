@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends Activity {
 
-    String urladdr = "http://192.168.0.148:8080/test/recipe_all.jsp";
+    String urladdr = "http://아이피를 입력하세요:8080/test/recipe_all.jsp";
     ArrayList<RecipeData> list;
     RecipeRecyclerAdapter adapter;
     RecyclerView recyclerView;
